@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/apurva-pandey-5a0529292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apurva-pandey-5a0529292" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/apurva-pandey-ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/apurva-pandey-ap" height="30" width="40" /></a>
 <a href="https://kaggle.com/apurvapandey0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="apurvapandey0106" height="30" width="40" /></a>
 <a href="https://instagram.com/pandey_0106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandey_0106" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/apurva_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apurva_pandey" height="30" width="40" /></a>
